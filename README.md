@@ -12,6 +12,7 @@ I love to learn about new technologies.
 
 <div align="center">
 <h4>⚒️ - Languages, Tools and Frameworks<h4>
+  <br>
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
@@ -41,6 +42,7 @@ I love to learn about new technologies.
 
 <div align="center">
 <h4>🔭 - GitHub Stats<h4>
+  <br>
   <img src="https://streak-stats.demolab.com?user=RoyalGhost13&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=RoyalGhost13&theme=nord&column=2&row=1&margin-w=3&margin-h=12&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
@@ -49,13 +51,15 @@ I love to learn about new technologies.
 
 <div align="center">
 <h4>🐍 - Commit History<h4>
-<img src="https://raw.githubusercontent.com/RoyalGhost13/RoyalGhost13/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RoyalGhost13/RoyalGhost13/output/snake.svg" alt="Snake animation" height="150" />
 
 <br clear="both">
+<br>
+<br>
 
 <div align="center">
   <a href="https://linktr.ee/RoyalGhost13">
-    <img src="https://img.shields.io/static/v1?message=My+Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=flat" height="30" alt="linktree logo" />
+    <img src="https://img.shields.io/static/v1?message=My+Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=flat" height="20" alt="linktree logo" />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RoyalGhost13.RoyalGhost13&left_color=steelblue&right_color=slategray&left_text=Visitors"height="30" alt="visitors badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RoyalGhost13.RoyalGhost13&left_color=steelblue&right_color=slategray&left_text=Visitors"height="20" alt="visitors badge" />
 </div>
