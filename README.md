@@ -43,7 +43,7 @@ I love to learn about new technologies.
 <div align="center">
 <h4>🔭 - GitHub Stats<h4>
   <br>
-  <img src="https://streak-stats.demolab.com?user=RoyalGhost13&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=RoyalGhost13&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=RoyalGhost13&theme=nord&column=2&row=1&margin-w=3&margin-h=12&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
